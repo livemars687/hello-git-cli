@@ -5,3 +5,4 @@ git-commit - Record changes to the repository
 %(?:%{%}➜ :%{%}➜ ) %{$fg[cyan]%}%c%{$reset_color%} $(git_prompt_info)
 second modigy
 third my branch
+fourth - my branch
