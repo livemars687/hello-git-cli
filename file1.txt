@@ -3,3 +3,4 @@ file1.txt를 만들었다
 git-commit - Record changes to the repository
 
 %(?:%{%}➜ :%{%}➜ ) %{$fg[cyan]%}%c%{$reset_color%} $(git_prompt_info)
+second modigy
