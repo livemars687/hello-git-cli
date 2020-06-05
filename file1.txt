@@ -6,3 +6,4 @@ git-commit - Record changes to the repository
 second modigy
 third my branch
 fourth - my branch
+some hot fix
