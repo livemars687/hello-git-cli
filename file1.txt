@@ -7,3 +7,4 @@ second modigy
 third my branch
 fourth - my branch
 some hot fix
+funtion 1 add
